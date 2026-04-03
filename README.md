@@ -7,6 +7,7 @@
 ## Ảnh minh chứng
 
 ### 1. Danh sách sản phẩm trong Admin
+<img width="1513" height="523" alt="Screenshot 2026-04-03 204553" src="https://github.com/user-attachments/assets/03d321b8-5720-4123-bb29-4d044f9c8750" />
 
 
 ### 2. Query 3 - Lọc sản phẩm + Console log
@@ -35,9 +36,5 @@ Query trong GraphQL được thiết kế cho các hoạt động đọc dữ li
 Mutation được sử dụng cho các hoạt động ghi hoặc thay đổi dữ liệu (tương đương POST, PUT, DELETE trong REST). Việc thay đổi giá là một hành động cập nhật cơ sở dữ liệu, do đó cần dùng Mutation để đảm bảo tính đúng đắn về mặt kiến trúc và giúp server nhận biết đây là một tác vụ có tính thay đổi (side-effect).
 
 
-
-
-
-
 ## Link video demo
-[Link video YouTube hoặc file đính kèm]
+
