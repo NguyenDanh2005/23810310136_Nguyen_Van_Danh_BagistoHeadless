@@ -7,7 +7,7 @@
 ## Ảnh minh chứng
 
 ### 1. Danh sách sản phẩm trong Admin
-<img width="1513" height="523" alt="Screenshot 2026-04-03 204553" src="https://github.com/user-attachments/assets/03d321b8-5720-4123-bb29-4d044f9c8750" />
+<img width="1920" height="1200" alt="Screenshot (375)" src="https://github.com/user-attachments/assets/440e97c0-336e-4d3b-a8a9-10186a727ff3" />
 
 
 ### 2. Query 3 - Lọc sản phẩm + Console log
